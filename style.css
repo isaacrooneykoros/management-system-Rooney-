@@ -1,0 +1,52 @@
+.heading1{
+    color: red;
+}
+
+.heading2{
+    font-style: italic;
+}
+
+
+.myheading{
+
+}
+
+
+.emobilis{
+    background-color: red;
+
+    padding-bottom: 30px;
+    padding-top: 30px;
+    padding-left: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    color: white;
+}
+
+.mytest{
+    display: flex;
+    background-color: lightgrey;
+    padding: 20px;
+
+}
+.paragraph1{
+    margin-left: 20px;
+}
+
+.main{
+    display: flex;
+    
+}
+
+.paragraph1{
+    background-color: coral;
+
+}
+
+.paragraph2{
+    background-color: blue;
+}
+
+.paragraph3{
+    background-color: firebrick;
+}

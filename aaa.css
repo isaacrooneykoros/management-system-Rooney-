@@ -1,0 +1,28 @@
+.mytest{
+    display: flex;
+    background-color: lightgrey;
+    padding: 10px;
+
+}
+.mai{
+    display: flex;
+    padding: 10px;
+}
+
+.para1{
+    display: flex;
+    margin-left: 20px;
+    padding: 10px;
+}
+
+.para2{
+    display: flex;
+    margin-left: 20px;
+    padding: 10px;
+}
+
+.para3{
+    display: flex;
+    margin-left: 20px;
+    padding: 10px;
+}

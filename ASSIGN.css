@@ -1,0 +1,32 @@
+FORM{
+    background-color: brown;
+    width: 50%;
+    margin: auto;
+    padding: 30px;
+    border-radius: 10px;
+    margin: auto;
+    color: white;
+
+
+}
+body{
+    background-color: maroon;
+}
+
+label{
+    width: 130px;
+    display: inline-block;
+    color: white;
+
+}
+button{
+    height: 40px;
+    width: 600px;
+    border-radius: 5px;
+    background-color: white;
+
+}
+
+button:hover{
+    background-color: lightgreen;
+}
